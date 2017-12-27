@@ -27,7 +27,7 @@ return [
     "contest_ent" => "<a href='/upload?e=c'>Dołącz teraz</a> | <a href='/contest'>Zobacz uczestników</a>",
     "view"        => "wyświetlenie",
     "views"       => "wyświetlenia",
-    "whatsnew"    => "Co nowego?"
+    "whatsnew"    => "Co nowego?",
     "delvid"      => "Usunięty film",
     "prvvid"      => "Prywatny film",
     "prtn"        => "Jest partnerem",
