@@ -1,0 +1,35 @@
+<?php
+return [
+    "decimal_point"         => ".",
+    "thousand_seperator"    => ",",
+
+    "h_home"      => "Strona główna",
+    "h_videos"    => "Filmy",
+    "h_channels"  => "Kanały",
+    "h_community" => "Społeczność",
+    "h_search"    => "Szukaj",
+    "h_signup"    => "Załóż konto",
+    "h_signin"    => "Zaloguj się",
+    "h_or"        => "albo",
+    "h_subs"      => "Subskrypcje",
+    "h_history"   => "Historia",
+    "h_upload"    => "Wrzuć",
+    "w_watched"   => "Obejrzane filmy",
+    "w_recommend" => "Rekomendowane filmy",
+    "w_subscrib"  => "Subskrypcje",
+    "w_featured"  => "Promowane filmy ",
+    "w_popular"   => "Najbardziej popularne filmy",
+    "s_customize" => "Chcesz dostosować tą stronę główną?",
+    "s_si_su"     => "<a href='/signin'>Zaloguj się</a> albo <a href='/signup'>Załóż konto</a> teraz!",
+    "contest"     => "Konkurs filmowy",
+    "contest_prm" => "Zrób film, wrzuć go i udostępnij!",
+    "contest_th"  => "Aktualna skórka:",
+    "contest_ent" => "<a href='/upload?e=c'>Dołącz teraz</a> | <a href='/contest'>Zobacz uczestników</a>",
+    "view"        => "wyświetlenie",
+    "views"       => "wyświetlenia",
+    "whatsnew"    => "Co nowego?"
+    "delvid"      => "Usunięty film",
+    "prvvid"      => "Prywatny film",
+    "prtn"        => "Jest partnerem",
+    "vrfd"        => "Zweryfikowany"
+];
