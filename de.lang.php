@@ -2,6 +2,15 @@
 return [
     "decimal_point"         => ",",
     "thousand_seperator"    => ".",
+    "year"                  => "Jahr",
+    "month"                 => "Monat",
+    "week"                  => "Woche",
+    "day"                   => "Tag",
+    "hour"                  => "Stunde",
+    "minute"                => "Minute",
+    "second"                => "Sekunde",
+    "time=1"                => "vor [number] [time]",
+    "time>1"                => "vor [number] [time]en",
 
     "h_home"      => "Startseite",
     "h_videos"    => "Videos",

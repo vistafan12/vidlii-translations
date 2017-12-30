@@ -2,6 +2,15 @@
 return [
     "decimal_point"         => ".",
     "thousand_seperator"    => ",",
+    "year"                  => "year",
+    "month"                 => "month",
+    "week"                  => "week",
+    "day"                   => "day",
+    "hour"                  => "hour",
+    "minute"                => "minute",
+    "second"                => "second",
+    "time=1"                => "[number] [time] ago",
+    "time>1"                => "[number] [time]s ago",
 
     "h_home"      => "Home",
     "h_videos"    => "Videos",
