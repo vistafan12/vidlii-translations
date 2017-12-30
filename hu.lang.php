@@ -40,7 +40,7 @@ return [
     "delvid"      => "Törölt videó",
     "prvvid"      => "Privát videó",
     "prtn"        => "Partner",
-    "vrfd"        => "Ellenőrizve"
+    "vrfd"        => "Ellenőrizve",
     "lastonline"  => "Utolsó [num] felhasználó",
     "l_videos"    => "videók",
     "l_favs"      => "kedvencek",
