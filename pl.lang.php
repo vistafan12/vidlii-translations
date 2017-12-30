@@ -2,6 +2,15 @@
 return [
     "decimal_point"         => ".",
     "thousand_seperator"    => ",",
+    "year"                  => "rok",
+    "month"                 => "miesiąc",
+    "week"                  => "tydzień",
+    "day"                   => "dzień",
+    "hour"                  => "godzin",
+    "minute"                => "minutę",
+    "second"                => "sekundę",
+    "time=1"                => "[number] [time] temu",
+    "time>1"                => "[number] [time] temu",
 
 // HOMEPAGE
     "h_home"      => "Strona główna",
