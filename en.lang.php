@@ -36,7 +36,7 @@ return [
     "contest_ent" => "<a href='/upload?e=c'>Enter Now</a> | <a href='/contest'>View Entries</a>",
     "view"        => "view",
     "views"       => "views",
-    "whatsnew"    => "What's New",
+    "whatsnew"    => "What’s New",
     "delvid"      => "Deleted Video",
     "prvvid"      => "Private Video",
     "prtn"        => "Partnered",
