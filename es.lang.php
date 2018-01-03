@@ -2,6 +2,17 @@
 return [
     "decimal_point"         => ",",
     "thousand_seperator"    => ".",
+        "decimal_point"         => ".",
+    "thousand_seperator"    => ",",
+    "year"                  => "año",
+    "month"                 => "mes",
+    "week"                  => "semana",
+    "day"                   => "dia",
+    "hour"                  => "hora",
+    "minute"                => "minuto",
+    "second"                => "segundo",
+    "time=1"                => "hace [numero] [tiempo] ",
+    "time>1"                => "hace [number] [tiempo]s",
 
     "h_home"      => "Pagina Principal",
     "h_videos"    => "Videos",
