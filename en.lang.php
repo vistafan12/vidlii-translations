@@ -12,6 +12,25 @@ return [
     "time=1"                => "[number] [time] ago",
     "time>1"                => "[number] [time]s ago",
 
+    "categories"            => "Categories",
+    "filmanimation"         => "Film & Animation",
+    "autovehicle"           => "Autos & Vehicles",
+    "music"                 => "Music",
+    "petsanimals"           => "Pets & Animals",
+    "sports"                => "Sports",
+    "travelevents"          => "Travel & Events",
+    "gaming"                => "Gaming",
+    "peopleblogs"           => "People & Blogs",
+    "comedy"                => "Comedy",
+    "entertainment"         => "Entertainment",
+    "newspolitics"          => "News & Politics",
+    "howtostyle"            => "Howto & Style",
+    "education"             => "Education",
+    "sciencetech"           => "Science & Technology",
+    "nonprofit"             => "Nonprofits & Activism",
+
+    "save_changes"          => "Save Changes",
+
     "h_home"      => "Home",
     "h_videos"    => "Videos",
     "h_channels"  => "Channels",
@@ -75,5 +94,32 @@ return [
     "v_cust"      => "Player Customization",
     "v_butt"      => "Buttons Color",
     "v_back"      => "Background Color",
-    "save_change" => "Save Changes"
+    "save_change" => "Save Changes",
+
+    "modules"     => "Modules",
+    "feed"        => "Feed",
+
+    "modsettings" => "Select the modules you want to appear on your homepage",
+    "m_mostview"  => "Most Viewed",
+    "m_inbox"     => "Inbox",
+    "m_stats"     => "Channels Statistics",
+
+    "subsettings" => "Subscription Settings",
+    "s_num"       => "Number of Rows",
+    "s_from"      => "Show videos from",
+    "s_everyone"  => "Everyone",
+
+    "in"          => "in",
+    "all_cats"    => "All Categories",
+    "v_newest"    => "Newest",
+    "v_most_view" => "Most Viewed",
+    "v_most_disc" => "Most Discussed",
+    "v_top_rate"  => "Top Rated",
+
+    "no_videos"   => "No videos were found",
+
+    "today"       => "Today",
+    "this_week"   => "This Week",
+    "this_month"  => "This Month",
+    "all_time"    => "All Time",
 ];

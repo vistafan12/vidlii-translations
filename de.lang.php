@@ -12,6 +12,23 @@ return [
     "time=1"                => "vor [number] [time]",
     "time>1"                => "vor [number] [time]en",
 
+    "categories"            => "Kategorien",
+    "filmanimation"         => "Film & Animation",
+    "autovehicle"           => "Autos & Fahrzeuge",
+    "music"                 => "Musik",
+    "petsanimals"           => "Tiere",
+    "sports"                => "Sport",
+    "travelevents"          => "Reisen & Events",
+    "gaming"                => "Spiele",
+    "peopleblogs"           => "Leute & Blogs",
+    "comedy"                => "Comedy",
+    "entertainment"         => "Unterhaltung",
+    "newspolitics"          => "Nachrichten & Politik",
+    "howtostyle"            => "Tipps & Style",
+    "education"             => "Bildung",
+    "sciencetech"           => "Wissenschaft & Technologie",
+    "nonprofit"             => "Gemeinnützigkeit",
+
     "h_home"      => "Startseite",
     "h_videos"    => "Videos",
     "h_channels"  => "Kanäle",
@@ -75,5 +92,32 @@ return [
     "v_cust"      => "Player-Gestaltung",
     "v_butt"      => "Farbe Knöpfe",
     "v_back"      => "Hintergrund-Farbe",
-    "save_change" => "Änderungen Speichern"
+    "save_change" => "Änderungen Speichern",
+
+    "modules"     => "Module",
+    "feed"        => "Feed",
+
+    "modsettings" => "Wählen Sie aus, welche Module auf der Startseite auftauchen sollen",
+    "m_mostview"  => "Meist gesehen",
+    "m_inbox"     => "Inbox",
+    "m_stats"     => "Kanal Statistiken",
+
+    "subsettings" => "Abonnement Einstellungen",
+    "s_num"       => "Anzahl der Reihen",
+    "s_from"      => "Zeige Videos von",
+    "s_everyone"  => "Jeden",
+
+    "in"          => "in",
+    "all_cats"    => "Allen Kategorien",
+    "v_newest"    => "Neuste",
+    "v_most_view" => "Meist Gesehen",
+    "v_most_disc" => "Meist Diskutiert",
+    "v_top_rate"  => "Best Bewertet",
+
+    "no_videos"   => "Keine Videos wurden gefunden",
+
+    "today"       => "Heute",
+    "this_week"   => "Diese Woche",
+    "this_month"  => "Dieser Monat",
+    "all_time"    => "Immer",
 ];
