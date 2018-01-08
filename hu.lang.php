@@ -12,6 +12,25 @@ return [
     "time=1"                => "[number] [time]",
     "time>1"                => "[number] [time]",
 
+    "categories"            => "Kategóriák:",
+    "filmanimation"         => "Film és animáció",
+    "autovehicle"           => "Autók és más járművek",
+    "music"                 => "Zene",
+    "petsanimals"           => "Házi- és egyéb állatok",
+    "sports"                => "Sport",
+    "travelevents"          => "Utazás és események",
+    "gaming"                => "Játék",
+    "peopleblogs"           => "Emberek és blogok",
+    "comedy"                => "Humor",
+    "entertainment"         => "Szórakozás",
+    "newspolitics"          => "Hírek és politika",
+    "howtostyle"            => "Útmutatók és stílus",
+    "education"             => "Oktatás",
+    "sciencetech"           => "Tudomány és technika",
+    "nonprofit"             => "Nonprofit szervezetek és aktivisták",
+
+    "save_changes"          => "Beállitások mentése",
+
     "h_home"      => "Kezdőlap",
     "h_videos"    => "Videók",
     "h_channels"  => "Csatornák",
@@ -76,4 +95,31 @@ return [
     "v_butt"      => "Gombok színe",
     "v_back"      => "Háttérszín",
     "save_change" => "Beállitások mentése"
+
+    "modules"     => "Modulok",
+    "feed"        => "Hírcsatorna",
+
+    "modsettings" => "Válaszd ki a modulokat amik megjelennek a kezdőlapon",
+    "m_mostview"  => "Legnézettebb",
+    "m_inbox"     => "Beérkező üzenetek",
+    "m_stats"     => "Statisztika",
+
+    "subsettings" => "Feliratkozások beállitása",
+    "s_num"       => "Sorok száma",
+    "s_from"      => "Mutasson videókat tőle",
+    "s_everyone"  => "Mindenki",
+
+    "in"          => "",
+    "all_cats"    => "Minden kategóriában",
+    "v_newest"    => "Legújabb",
+    "v_most_view" => "Legnézettebb",
+    "v_most_disc" => "Legvitatottabb",
+    "v_top_rate"  => "Legjobban értékelt",
+
+    "no_videos"   => "Nincs találat.",
+
+    "today"       => "Ma",
+    "this_week"   => "Ezen a héten",
+    "this_month"  => "Ebben a hónapban",
+    "all_time"    => "Mindig",
 ];
