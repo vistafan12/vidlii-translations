@@ -160,7 +160,7 @@ return [
     "c_support"   => "Wesprzyj VidLii",
     "c_activate"  => "AKTYWNY",
     "c_follow"    => "Śledź nas na Twitterze, aby zawsze być na bieżąco z nowymi funkcjami!", // jan pls add link to polish twitter here thx
-    "c_touch"     => "GSkontaktuj się bezpośrednio ze społecznością VidLii i personelem!",
+    "c_touch"     => "Skontaktuj się bezpośrednio ze społecznością VidLii i naszym zespołem!",
     "c_random"    => "Randomowi użytkownicy",
     "c_connect"   => "Łączenie z VidLii",
     "c_comments"  => "Ostatnie komentarze",
