@@ -94,7 +94,7 @@ return [
     "v_cust"      => "Lejátszó testreszabása",
     "v_butt"      => "Gombok színe",
     "v_back"      => "Háttérszín",
-    "save_change" => "Beállitások mentése"
+    "save_change" => "Beállitások mentése",
 
     "modules"     => "Modulok",
     "feed"        => "Hírcsatorna",
